@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FreshDeskMessaging</string>
+    <string name="freshchat_file_provider_authority">com.sushmit.freshdeskmessaging.provider</string>
+</resources>
